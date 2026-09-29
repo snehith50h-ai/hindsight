@@ -1,5 +1,5 @@
 import argparse
-from datetime, timezone import datetime
+from datetime import datetime, timezone
 from simulation.world import SimWorld
 from simulation.archetypes import CHRONIC_PROMISER, DEAL_SEEKER, SILENT_PAYER, LOYAL_FAST_PAYER
 
